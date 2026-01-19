@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-01-19: Update dependencies
 - 2023-06-07: style(auth): fix pagination offset
 - 2026-06-03: fix(utils): update env example
 - 2026-03-26: perf(config): add rate limiting
